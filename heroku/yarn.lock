@@ -124,10 +124,10 @@
     tslib "^1"
     urijs "^1.19.1"
 
-"@heroku-cli/plugin-auth@^7.46.1":
-  version "7.46.1"
-  resolved "https://registry.yarnpkg.com/@heroku-cli/plugin-auth/-/plugin-auth-7.46.1.tgz#17cc2329e369711e288bcadbefe6b939a5a310df"
-  integrity sha512-LOjlDTj8oTdZyxUGGsejm8TfN2OkBBD0jnJyvouoKMpo59+fWixZ9b+AZwnfc0R4opzU0lz2cVV0/mg6ZrnFfg==
+"@heroku-cli/plugin-auth@^7.47.4":
+  version "7.47.4"
+  resolved "https://registry.yarnpkg.com/@heroku-cli/plugin-auth/-/plugin-auth-7.47.4.tgz#7777617be54c87a0cbc863ef7a2f36e8e5d8ee9c"
+  integrity sha512-NVIbqcr+Hn4n1TYZtsZaSSOmCgXOwnkCbhyPXI3/kfwSG7VXCug7ClaIQMPErbFZWih327KypiBOjz7ZP+vXsA==
   dependencies:
     "@heroku-cli/color" "^1.1.14"
     "@heroku-cli/command" "^8.4.0"
@@ -303,10 +303,10 @@
     lodash "^4.17.11"
     lodash.flatten "^4.4.0"
 
-"@heroku-cli/plugin-pg-v5@^7.47.3":
-  version "7.47.3"
-  resolved "https://registry.yarnpkg.com/@heroku-cli/plugin-pg-v5/-/plugin-pg-v5-7.47.3.tgz#7412a698baf27ffecd9532aef219c27421a7245d"
-  integrity sha512-QXxvGJJNLY7Nl50ciPzX63M3CeJTrH/OAgpD6H/twzPEaZ7NcsiqQdbZeDw3vsLfqL/Ld1e3/HK0tRzXP29u9Q==
+"@heroku-cli/plugin-pg-v5@^7.47.4":
+  version "7.47.4"
+  resolved "https://registry.yarnpkg.com/@heroku-cli/plugin-pg-v5/-/plugin-pg-v5-7.47.4.tgz#167bdf10208d9920920c34e3ffae51681337e342"
+  integrity sha512-LIqB8OjrWx79JrrCKZsVCNvZprIE/AqHvAYzxTxdhx1HkYkekzpoQcYfO3otjQ+H4Ddykb5ckh5ngby/ZDwrDg==
   dependencies:
     "@heroku-cli/plugin-addons" "^1.2.29"
     bytes "^3.1.0"
