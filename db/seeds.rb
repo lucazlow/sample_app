@@ -10,7 +10,7 @@ User.create!(name:                   "Example User",
              password:               "foobar",
              password_confirmation:  "foobar",
              activated:               true,
-             activated_at:            Time.zone.now,   
+             activated_at:            Time.zone.now,
              admin:                   true                         )
   
 99.times do |n|
